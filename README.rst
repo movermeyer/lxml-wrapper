@@ -15,11 +15,11 @@ lxml-wrapper
     :target: https://coveralls.io/r/matee911/lxml-wrapper?branch=master
     :alt: Coverage
 
-.. image:: https://pypip.in/v/lxml-wrapper/badge.png
+.. image:: https://img.shields.io/pypi/v/lxml-wrapper.svg
     :target: https://crate.io/packages/lxml-wrapper/
     :alt: Latest PyPI version
 
-.. image:: https://pypip.in/d/lxml-wrapper/badge.png
+.. image:: https://img.shields.io/pypi/dm/lxml-wrapper.svg
     :target: https://crate.io/packages/lxml-wrapper/
     :alt: Number of PyPI downloads
 
